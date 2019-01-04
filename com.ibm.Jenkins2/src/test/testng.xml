@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "Test Suite" thread-count="2">
+   <test name = "Demo Test">
+      <classes> 
+         <class name = "com.ibm.Jenkins2.com.ibm.Jenkins2.launchApplication"/>
+      	</classes>
+   </test>
+   </suite>
